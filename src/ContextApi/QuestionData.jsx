@@ -1,0 +1,42 @@
+export const Questions = [
+    {
+        prompt: "What is 10 + 10?",
+        optionA: "20",
+        optionB: "50",
+        optionC: "10",
+        optionD: "25",
+        answer: "A",
+    },
+    {
+        prompt: "What is 15 + 15?",
+        optionA: "30",
+        optionB: "50",
+        optionC: "10",
+        optionD: "25",
+        answer: "A",
+    },
+    {
+        prompt: "What is 0 + 10?",
+        optionA: "20",
+        optionB: "50",
+        optionC: "10",
+        optionD: "25",
+        answer: "C",
+    },
+    {
+        prompt: "What is 10 + 15?",
+        optionA: "20",
+        optionB: "50",
+        optionC: "10",
+        optionD: "25",
+        answer: "D",
+    },
+    {
+        prompt: "What is 10 + 40?",
+        optionA: "20",
+        optionB: "50",
+        optionC: "10",
+        optionD: "25",
+        answer: "B",
+    },
+]
